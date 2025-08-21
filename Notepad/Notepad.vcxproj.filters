@@ -31,7 +31,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".clang-format" />
-    <None Include="cpp.hint" />
   </ItemGroup>
   <ItemGroup>
     <Manifest Include="Notepad.manifest" />
